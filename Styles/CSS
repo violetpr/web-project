@@ -1,0 +1,30 @@
+<style>
+header {
+    text-align: center;
+    background-color: forestgreen;
+    background-size: cover;
+    color: darkkhaki;
+  }
+  a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    ul {
+      padding: 10px;
+      background: violet;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    body {
+      background-color:olivedrab;
+    }
+    </style>
